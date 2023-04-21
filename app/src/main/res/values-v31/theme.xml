@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp" parent="Theme.Android">
+        <!-- Point 3-->
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <!-- Point 2-->
+        <item name="android:windowSplashScreenIconBackgroundColor">
+            #000000</item>
+        <!--Point 1-->
+        <!--<item name="android:windowSplashScreenAnimatedIcon">
+            @drawable/ic_realm_logo_250</item>
+         Point 4
+        <item name="android:windowSplashScreenBrandingImage">
+            @drawable/relam_horizontal</item>-->
+
+        <item name="android:windowSplashScreenAnimationDuration">1000</item></style>
+</resources>

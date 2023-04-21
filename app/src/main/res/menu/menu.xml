@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/fragment_detail"
+        android:title="Fiche"
+        android:icon="@android:drawable/arrow_down_float" />
+
+    <item android:id="@+id/fragment_nutri"
+        android:title="Nutrition"
+        android:icon="@android:drawable/alert_dark_frame" />
+
+    <item android:id="@+id/fragment_info"
+        android:title="Tableau"
+        android:icon="@android:drawable/btn_dropdown" />
+
+</menu>
